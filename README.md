@@ -55,8 +55,12 @@ ChatGPT created me a KQL Query to extract raw custom log data:  <br/>
 <img src="https://i.imgur.com/RxJDxAG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set up a map in Microsoft Sentinel:  <br/>
+Set up a map in Microsoft Sentine:  <br/>
 <img src="https://i.imgur.com/nQfVWGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Reviewed MITRE Att&ck :  <br/>
+<img src="https://i.imgur.com/7TBwluv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
